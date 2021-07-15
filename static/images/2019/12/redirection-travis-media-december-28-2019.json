@@ -1,0 +1,780 @@
+{
+    "plugin": {
+        "version": "4.5.1",
+        "date": "Sun, 29 Dec 2019 04:00:24 +0000"
+    },
+    "groups": [
+        {
+            "id": 1,
+            "name": "Redirections",
+            "redirects": 27,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Modified Posts",
+            "redirects": 2,
+            "module_id": 1,
+            "moduleName": "WordPress",
+            "enabled": true
+        }
+    ],
+    "redirects": [
+        {
+            "id": 1,
+            "url": "/packages-pricing",
+            "match_url": "/packages-pricing",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/services"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 7,
+            "regex": false,
+            "group_id": 1,
+            "position": 0,
+            "last_access": "May 12, 2019",
+            "enabled": true
+        },
+        {
+            "id": 2,
+            "url": "/instrumentals",
+            "match_url": "/instrumentals",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 16,
+            "regex": false,
+            "group_id": 1,
+            "position": 1,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 3,
+            "url": "/about",
+            "match_url": "/about",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 2,
+            "last_access": "June 12, 2019",
+            "enabled": true
+        },
+        {
+            "id": 4,
+            "url": "/projects",
+            "match_url": "/projects",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 32,
+            "regex": false,
+            "group_id": 1,
+            "position": 3,
+            "last_access": "November 22, 2019",
+            "enabled": true
+        },
+        {
+            "id": 5,
+            "url": "projects.html",
+            "match_url": "projects.html",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 4,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 6,
+            "url": "blog.html",
+            "match_url": "blog.html",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/blog"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 5,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 7,
+            "url": "projects",
+            "match_url": "projects",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 6,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 8,
+            "url": "test.html",
+            "match_url": "test.html",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 1,
+            "position": 7,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 9,
+            "url": "/vs-code-to-php-7-executable-not-found-error",
+            "match_url": "/vs-code-to-php-7-executable-not-found-error",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/vs-code-to-php-7-executable-not-found"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 0,
+            "regex": false,
+            "group_id": 2,
+            "position": 0,
+            "last_access": "-",
+            "enabled": true
+        },
+        {
+            "id": 11,
+            "url": "/product/20-minute-methods-javascript",
+            "match_url": "/product/20-minute-methods-javascript",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/ebooks/20-minute-methods-javascript"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 1348,
+            "regex": false,
+            "group_id": 1,
+            "position": 8,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 12,
+            "url": "/become-a-teacher",
+            "match_url": "/become-a-teacher",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 40,
+            "regex": false,
+            "group_id": 2,
+            "position": 2,
+            "last_access": "December 6, 2019",
+            "enabled": true
+        },
+        {
+            "id": 13,
+            "url": "/checkout-2",
+            "match_url": "/checkout-2",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 51,
+            "regex": false,
+            "group_id": 1,
+            "position": 9,
+            "last_access": "December 24, 2019",
+            "enabled": true
+        },
+        {
+            "id": 14,
+            "url": "/course-checkout",
+            "match_url": "/course-checkout",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 39,
+            "regex": false,
+            "group_id": 1,
+            "position": 10,
+            "last_access": "December 24, 2019",
+            "enabled": true
+        },
+        {
+            "id": 15,
+            "url": "/hosting",
+            "match_url": "/hosting",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/website-care-plans"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 150,
+            "regex": false,
+            "group_id": 1,
+            "position": 11,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 16,
+            "url": "/memberships",
+            "match_url": "/memberships",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 73,
+            "regex": false,
+            "group_id": 1,
+            "position": 12,
+            "last_access": "December 27, 2019",
+            "enabled": true
+        },
+        {
+            "id": 17,
+            "url": "/my-account-courses",
+            "match_url": "/my-account-courses",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 56,
+            "regex": false,
+            "group_id": 1,
+            "position": 13,
+            "last_access": "December 24, 2019",
+            "enabled": true
+        },
+        {
+            "id": 18,
+            "url": "/profile",
+            "match_url": "/profile",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 56,
+            "regex": false,
+            "group_id": 1,
+            "position": 14,
+            "last_access": "December 19, 2019",
+            "enabled": true
+        },
+        {
+            "id": 19,
+            "url": "/purchase",
+            "match_url": "/purchase",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 75,
+            "regex": false,
+            "group_id": 1,
+            "position": 15,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 20,
+            "url": "/services",
+            "match_url": "/services",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 155,
+            "regex": false,
+            "group_id": 1,
+            "position": 16,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 21,
+            "url": "/affiliate-home",
+            "match_url": "/affiliate-home",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 63,
+            "regex": false,
+            "group_id": 1,
+            "position": 17,
+            "last_access": "December 22, 2019",
+            "enabled": true
+        },
+        {
+            "id": 22,
+            "url": "/affiliate-home/affiliate-login",
+            "match_url": "/affiliate-home/affiliate-login",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 62,
+            "regex": false,
+            "group_id": 1,
+            "position": 18,
+            "last_access": "December 17, 2019",
+            "enabled": true
+        },
+        {
+            "id": 23,
+            "url": "/affiliate-home/affiliate-register",
+            "match_url": "/affiliate-home/affiliate-register",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 68,
+            "regex": false,
+            "group_id": 1,
+            "position": 19,
+            "last_access": "December 23, 2019",
+            "enabled": true
+        },
+        {
+            "id": 24,
+            "url": "^/courses/(.*)$",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 208,
+            "regex": true,
+            "group_id": 1,
+            "position": 20,
+            "last_access": "December 29, 2019",
+            "enabled": true
+        },
+        {
+            "id": 25,
+            "url": "/courses",
+            "match_url": "/courses",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 186,
+            "regex": false,
+            "group_id": 1,
+            "position": 21,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 26,
+            "url": "/blog",
+            "match_url": "/blog",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 124,
+            "regex": false,
+            "group_id": 1,
+            "position": 22,
+            "last_access": "December 29, 2019",
+            "enabled": true
+        },
+        {
+            "id": 27,
+            "url": "/what-i-do",
+            "match_url": "/what-i-do",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/start-here"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 20,
+            "regex": false,
+            "group_id": 1,
+            "position": 23,
+            "last_access": "December 28, 2019",
+            "enabled": true
+        },
+        {
+            "id": 28,
+            "url": "/what-i-do/web-design-process",
+            "match_url": "/what-i-do/web-design-process",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/start-here"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 6,
+            "regex": false,
+            "group_id": 1,
+            "position": 24,
+            "last_access": "December 23, 2019",
+            "enabled": true
+        },
+        {
+            "id": 29,
+            "url": "^/work/(.*)",
+            "match_url": "regex",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": true
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "https://travis.media/start-here"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 62,
+            "regex": true,
+            "group_id": 1,
+            "position": 25,
+            "last_access": "December 28, 2019",
+            "enabled": false
+        },
+        {
+            "id": 30,
+            "url": "/homepage",
+            "match_url": "/homepage",
+            "match_data": {
+                "source": {
+                    "flag_query": "exact",
+                    "flag_case": false,
+                    "flag_trailing": false,
+                    "flag_regex": false
+                }
+            },
+            "action_code": 301,
+            "action_type": "url",
+            "action_data": {
+                "url": "/"
+            },
+            "match_type": "url",
+            "title": "",
+            "hits": 5,
+            "regex": false,
+            "group_id": 1,
+            "position": 26,
+            "last_access": "December 26, 2019",
+            "enabled": true
+        }
+    ]
+}

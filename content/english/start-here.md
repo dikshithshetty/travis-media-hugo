@@ -11,7 +11,7 @@ title:  "Start Here"
 <p>First, subscribe to the thriving newsletter packed with fresh coding tutorials, freelancing tips, our latest articles here on the bloc, and life hacks to make you a better developer and to bring you more success in your pursuits.&nbsp;</p>
 <p class="textcenter"><a class="button" id="genBtn">Join the Community!</a></p>
 <h3 id="tab-con-4">Step 2: Tell me how I can add value to your coding career</h2>
-<p>I was able to learn to code and step out as a full time freelancer in one year (<a href="https://travis.media/ebooks" target="_blank" rel="noopener noreferrer">You can read all about that here</a>). I&#8217;ve tried a bootcamp, worked for web agencies, created online courses, and have build high quality websites, all while learning to code (and often being in over my head)!</p>
+<p>I was able to learn to code and step out as a full time freelancer in one year (<a href="/ebooks" target="_blank" rel="noopener noreferrer">You can read all about that here</a>). I&#8217;ve tried a bootcamp, worked for web agencies, created online courses, and have build high quality websites, all while learning to code (and often being in over my head)!</p>
 <p>All this is to say, I want to take what I&#8217;ve learned and share it with you in a way that helps you meet your personal or career developer goals.</p>
 <p>Your feedback drives the content of this site as well as the community content.</p>
 <p><strong>So <a class="typeform-share link" href="https://travisrodgers.typeform.com/to/S8ZvMR" data-mode="popup" style="font-size:16px;" data-submit-close-delay="1" target="_blank">shoot me an email</a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> and tell me about yourself. I love hearing from my readers.</strong></p>
@@ -35,12 +35,12 @@ title:  "Start Here"
 <p>Well, you can find my coding tutorials, web development tips, and product review videos there as well (or on the <a href="/videos">Videos page</a>).</p>
 <p>Be sure to subscribe to get the latest updates!</p>
 <h4>2. Ebooks</h4>
-<p>How about Ebooks? <a href="https://travis.media/ebooks">Here are a few</a> that I&#8217;ve written available to download instantly.</p>
+<p>How about Ebooks? <a href="/ebooks">Here are a few</a> that I&#8217;ve written available to download instantly.</p>
 <h4>3. Online Courses</h4>
 <ul>
     <li><a href="https://learntocodeblueprint.com">The Learn to Code Blueprint Course: </a>The learn to code blueprint is a 6-month, step-by-step, week-by-week course that will take you from the foundations of programming, to being a confident programmer ready to land that dev job.</li>
-    <li><a href="https://travis.media/mezzanine">Build a Blog with Mezzanine: The Best Django CMS</a>Looking for a WordPress alternative? Enjoy programming in Python? Do you love Django but wish you could have the core features there already by default and with a friendlier interface? Well Mezzanine might be exactly what you are looking for.</li>
-    <li><a href="https://travis.media/methods">20 Minute Methods - Learn 30 JavaScript Methods in 12 Days!</a><p>With this course comes a commitment to schedule out 12 days in order to devote 20 minutes to learning individual JavaScript methods one bite at a time, with practical, hands-on examples; methods like split(), map(), slice(), join(), indexOf(), toString(), reduce(), etc.</p></li>
+    <li><a href="/mezzanine">Build a Blog with Mezzanine: The Best Django CMS</a>Looking for a WordPress alternative? Enjoy programming in Python? Do you love Django but wish you could have the core features there already by default and with a friendlier interface? Well Mezzanine might be exactly what you are looking for.</li>
+    <li><a href="/methods">20 Minute Methods - Learn 30 JavaScript Methods in 12 Days!</a><p>With this course comes a commitment to schedule out 12 days in order to devote 20 minutes to learning individual JavaScript methods one bite at a time, with practical, hands-on examples; methods like split(), map(), slice(), join(), indexOf(), toString(), reduce(), etc.</p></li>
 </ul>
 
 <div id="general-signup" class="modal">

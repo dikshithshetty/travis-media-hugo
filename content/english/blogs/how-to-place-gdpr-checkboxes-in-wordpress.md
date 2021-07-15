@@ -44,7 +44,7 @@ function tm_add_checkout_privacy_policy() {
         'label_class'   => array('woocommerce-form__label woocommerce-form__label-for-checkbox checkbox'),
         'input_class'   => array('woocommerce-form__input woocommerce-form__input-checkbox input-checkbox'),
         'required'      => true,
-        'label'         => 'I agree to the the storage &amp; handling of my </strong>email</strong> and </strong>first name</strong> in submitting this form, indicated in the <a href="https://travis.media/privacy-policy">Privacy Policy</a> page',
+        'label'         => 'I agree to the the storage &amp; handling of my </strong>email</strong> and </strong>first name</strong> in submitting this form, indicated in the <a href="/privacy-policy">Privacy Policy</a> page',
     ));  
 }
   
@@ -66,7 +66,7 @@ function tm_not_approved_privacy() {
 <p>To add a paragraph UNDER your Gravity Forms submit button, you can use this filter. Be sure to change the message to your desired message. Also be sure to change the number behind gform_submit_button to the number of your form. So if your form number is 15, then you want to change it to <strong>gform_submit_button_15</strong></p>
 {{< highlight php "style=pygments" >}}add_filter( 'gform_submit_button_9', 'add_paragraph_below_submit', 10, 2 );
 function add_paragraph_below_submit( $button, $form ) {
-    return $button .= "<p>I take privacy seriously. No spam. See the <a href='https://travis.media/privacy-policy'>Privacy Policy</a> for my data handling info.</p>";
+    return $button .= "<p>I take privacy seriously. No spam. See the <a href='/privacy-policy'>Privacy Policy</a> for my data handling info.</p>";
 }{{< / highlight >}}
 <h2></h2>
 <h2>How To Add A Checkbox to wpDiscuz Comments</h2>

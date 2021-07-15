@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://travis.media"
+baseURL = "https://travis-media-hugo-xms5e.ondigitalocean.app/"
 title = "Travis Media"
 theme = "editor"
 # post pagination

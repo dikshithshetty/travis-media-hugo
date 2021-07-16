@@ -1,4 +1,4 @@
-baseURL: 'https://travis-media-hugo-xms5e.ondigitalocean.app/'
+baseURL: 'https://travis.media'
 title: Travis Media
 theme: editor
 paginate: '12'

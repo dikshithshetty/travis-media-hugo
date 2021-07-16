@@ -31,7 +31,3 @@ Everyone loves VS Code. It does everything! And it does Docker well.
 I'll show you how in this video:
 
 {{< youtube 4I8CRAzPLD4 >}}
-</div>
-
-
-

@@ -3,8 +3,8 @@ title: Travis Media
 theme: editor
 paginate: '12'
 summaryLength: '10'
-googleAnalytics: ''
-disqusShortname: travismedia
+googleAnalytics: 'UA-48128207-4'
+disqusShortname: travisdotmedia
 disableLanguages:
   - ''
 permalinks:

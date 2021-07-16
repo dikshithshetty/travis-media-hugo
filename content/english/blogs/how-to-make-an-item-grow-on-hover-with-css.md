@@ -11,7 +11,23 @@ tags:  ["Coding Tutorials"]
 title:  "How To Make An Item Grow On Hover with CSS"
 
 ---
+<style>
+    .grow { 
+transition: all .2s ease-in-out; 
+}
 
+.grow:hover { 
+transform: scale(1.1); 
+}
+
+.shrink { 
+transition: all .2s ease-in-out; 
+}
+
+.shrink:hover { 
+transform: scale(0.9); 
+}
+    </style>
 
 <p>Here is a simple tweak for you to use on your site to make it a bit more exciting for the user (as long as you don&#8217;t over do it, right?). Find an element or two and make it expand or shrink when the mouse hovers over. Here&#8217;s an example:</p>
 <p><img class="grow" src="/images/2019/12/1-hover.jpg" /> <img class="grow" src="/images/2019/12/2-hover.jpg" /></p>

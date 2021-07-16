@@ -2,7 +2,7 @@
 author: "Travis Rodgers"
 date:  2018-08-08T10:19:26Z
 description:  ""
-draft:  false
+draft:  true
 slug:  "genesis-wordpress-code-snippets"
 title:  "Genesis WordPress Code Snippets"
 

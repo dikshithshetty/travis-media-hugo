@@ -2,7 +2,7 @@
 author: "Travis Rodgers"
 date:  2017-11-12T21:55:45Z
 description:  ""
-draft:  false
+draft:  true
 images: 
   -  "/images/wordpress/2017/11/appalachian-wedding-photo-multiple-devices-resized.jpg"
 slug:  "appalachian-wedding-photography"

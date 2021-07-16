@@ -58,6 +58,11 @@
 .newsletter-block {
   color: $dark;
   padding: 80px 60px;
+  .input-group {
+    #mce-FNAME {
+        margin-right:10px;
+    }
+  }
   @include tablet {
     padding: 80px 30px;
   }

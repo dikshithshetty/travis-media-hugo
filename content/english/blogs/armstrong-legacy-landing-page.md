@@ -2,7 +2,7 @@
 author: "Travis Rodgers"
 date:  2019-01-22T14:37:06Z
 description:  ""
-draft:  false
+draft:  true
 images: 
   -  "/images/wordpress/2019/01/ccu-edu-armstrong-legacy-cover.jpg"
 slug:  "armstrong-legacy-landing-page"

@@ -2,7 +2,7 @@
   {{ with .Params.images }}
   <div class="post-slider slider-sm">
     {{ range . }}
-    <div><img loading="lazy" class="w-100" src="{{ . | absURL }}" alt=""></div>
+    <div><img data-rjs="2" loading="lazy" class="w-100" src="{{ . | absURL }}" alt=""></div>
     {{ end }}
   </div>
   {{ end }}

@@ -713,6 +713,8 @@ nav.sidenav-menu {
 .newsletter-block {
   color: #2B2C2E;
   padding: 80px 60px; }
+  .newsletter-block .input-group #mce-FNAME {
+    margin-right: 10px; }
   @media (max-width: 767px) {
     .newsletter-block {
       padding: 80px 30px; } }

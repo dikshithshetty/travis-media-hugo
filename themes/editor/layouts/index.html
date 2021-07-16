@@ -111,7 +111,8 @@
               <div class="col-12 mt-4">
                 <form action="{{ .mailchimp_form_action }}" name="{{ .mailchimp_form_name }}" method="post">
                   <div class="input-group">
-                    <input type="text" class="form-control pl-3" placeholder="{{ i18n `enter_your_email`}}" aria-label="{{ i18n `enter_your_email`}}" required>
+                    <input id="mce-FNAME" type="text" name="FNAME" class="form-control pl-3" placeholder="First name" aria-label="Enter your first name" required>
+                    <input id="mce-EMAIL" type="email" name="EMAIL" class="form-control bg-transparent pl-3" placeholder="Email" aria-label="Enter your email" required>
                     <div class="input-group-append">
                       <button type="submit" class="input-group-text pr-3" aria-label="News-letter"><i class="far fa-paper-plane"></i>
                       </button>

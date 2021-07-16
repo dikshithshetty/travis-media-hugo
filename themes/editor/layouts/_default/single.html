@@ -8,7 +8,7 @@
     {{ with .Params.images }}
     <div class="post-slider">
       {{ range . }}
-      <div><img data-rjs="2" loading="lazy" class="w-100" src="{{ . | absURL }}" alt=""></div>
+      <div><img data-rjs="2" loading="lazy" class="w-100" data-src="{{ . | absURL }}" alt=""></div>
       {{ end }}
     </div>
     {{ end }}

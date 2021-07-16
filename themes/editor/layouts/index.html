@@ -4,9 +4,9 @@
   <div class="author-banner text-center d-flex flex-column align-items-center justify-content-center">
     {{ with site.GetPage "/about" }}
     {{ if .Params.image }}
-    <img loading="lazy" class="mb-4 rounded-circle w-100" style="max-width:280px" src="{{ .Params.image | absURL }}" alt="Author">
+    <img loading="lazy" class="mb-4 rounded-circle w-100" style="max-width:280px" data-src="{{ .Params.image | absURL }}" alt="Author">
     {{ else if .Params.email }}
-    <img loading="lazy" class="mb-4 rounded-circle w-100" style="max-width:280px" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=220&pg&d=identicon">
+    <img loading="lazy" class="mb-4 rounded-circle w-100" style="max-width:280px" data-src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=220&pg&d=identicon">
     {{ end }}
     <p class="text-uppercase small mb-2">{{ i18n `my_name_is` }}</p>
     <h1 class="h3 text-primary font-primary mb-3">{{ .Params.name }}</h1>

@@ -37,7 +37,7 @@
     {{ if site.Params.logo_rotate }}
     <a class="navbar-brand mr-0" href="{{ site.BaseURL | relLangURL }}">
       {{ if site.Params.logo }}
-      <img height="{{site.Params.logo_height}}" src="{{ site.Params.logo | absURL}}"
+      <img height="{{site.Params.logo_height}}" data-src="{{ site.Params.logo | absURL}}"
         alt="{{site.Params.logo_text}}">
       {{ else }}
       <span class="h3">{{site.Params.logo_text | markdownify}}</span>
@@ -46,7 +46,7 @@
     {{ else }}
     <a class="navbar-brand plain mr-0" href="{{ site.BaseURL | relLangURL }}">
       {{ if site.Params.logo }}
-      <img height="{{site.Params.logo_height}}" src="{{ site.Params.logo | absURL}}"
+      <img height="{{site.Params.logo_height}}" data-src="{{ site.Params.logo | absURL}}"
         alt="{{site.Params.logo_text}}">
       {{ else }}
       <span class="h3">{{site.Params.logo_text | markdownify}}</span>

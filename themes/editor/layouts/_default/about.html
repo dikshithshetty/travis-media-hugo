@@ -5,12 +5,12 @@
     {{ if .Params.image }}
     <div class="col-xl-3 col-lg-4">
       <div class="pr-3">
-        <img loading="lazy" class="img-fluid" style="max-width:250px" src="{{ .Params.image | absURL }}" alt="Author">
+        <img loading="lazy" class="img-fluid" style="max-width:250px" data-src="{{ .Params.image | absURL }}" alt="Author">
       </div>
     </div>
     {{ else if .Params.email }}
     <div class="col-xl-3 col-lg-4">
-      <img loading="lazy" class="img-fluid" style="max-width:250px" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=250&pg&d=identicon">
+      <img loading="lazy" class="img-fluid" style="max-width:250px" data-src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=250&pg&d=identicon">
     </div>
     {{ end }}
     <div class="col-lg-7 mt-5 mt-lg-0">

@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date:  2020-01-26T15:00:00Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/manage-docker-with-vs-code.jpg"
 slug:  "manage-docker-easily-with-vs-code"
-tags:  ["Coding Tutorials", "unique"]
+tags:  ["Coding Tutorials"]
 title:  "Manage Docker Easily With VS Code"
 
 ---

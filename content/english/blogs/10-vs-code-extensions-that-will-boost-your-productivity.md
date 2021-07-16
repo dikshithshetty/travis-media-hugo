@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date: 2019-01-09T10:34:16Z
 description: ""
 draft: false
 images: 
   - "/images/2019/12/vs-code-extensions.jpg"
 slug: "10-vs-code-extensions-that-will-boost-your-productivity"
-tags: ["Coding Tutorials", "unique"]
+tags: ["Coding Tutorials"]
 title: "10 VS Code Extensions that will boost your productivity"
 ---
 

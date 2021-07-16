@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date:  2020-02-07T11:53:47Z
 description:  ""
 draft:  true
 images: 
   -  "/images/2020/02/react-introduction-featured.jpg"
 slug:  "react-introduction-for-developers"
-tags:  ["Coding Tutorials", "unique"]
+tags:  ["Coding Tutorials"]
 title:  "React Introduction for Developers"
 
 ---

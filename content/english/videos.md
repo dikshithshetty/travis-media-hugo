@@ -8,6 +8,20 @@ title:  "Videos"
 
 ---
 
+
+<p>Do you prefer videos?</p>
+
+<p>Well, you can find coding tutorials, developer career tips, and product review videos on my YouTube page.</p>
+<p>Be sure to subscribe to get alerted when new videos are released!</p>
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCGPGirOab9EGy7VH4IwmWVQ" data-layout="full" data-count="hidden"></div>
+
+<p>Here are a few samples...</p>
+
+<p>-------------------</p>
+
 <div class="row">
 <div class="col-lg mb-4">
 {{< youtube i7ABlHngi1Q >}}

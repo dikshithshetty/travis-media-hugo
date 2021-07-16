@@ -21,9 +21,10 @@
       <form class="newsletter-block mx-auto mb-5" action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form" target="_blank">
         <h5 class="h4 mb-3 text-center font-primary">{{ i18n `subscribe_title` }}</h5>
         <div class="input-group">
-          <input type="text" class="form-control bg-transparent pl-3" placeholder="{{ i18n `enter_your_email`}}" aria-label="{{ i18n `enter_your_email`}}" required>
+          <input id="mce-FNAME" type="text" name="FNAME" class="form-control bg-transparent pl-3" placeholder="First Name" aria-label="Enter your first name" required>
+          <input id="mce-EMAIL" type="email" name="EMAIL" class="form-control bg-transparent pl-3" placeholder="Email" aria-label="Enter your email" required>
           <div class="input-group-append">
-            <button type="submit" class="input-group-text pr-3" aria-label="News-letter"><i class="far fa-paper-plane"></i>
+            <button type="submit" class="input-group-text pr-3" aria-label="Newsletter"><i class="far fa-paper-plane"></i>
             </button>
           </div>
         </div>

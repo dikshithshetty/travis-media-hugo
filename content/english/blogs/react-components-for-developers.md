@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date:  2020-02-09T04:10:39Z
 description:  ""
 draft:  true
 images: 
   -  "/images/2020/02/react-components-featured-image.jpg"
 slug:  "react-components-for-developers"
-tags:  ["Coding Tutorials", "unique"]
+tags:  ["Coding Tutorials"]
 title:  "React Components for Developers"
 
 ---

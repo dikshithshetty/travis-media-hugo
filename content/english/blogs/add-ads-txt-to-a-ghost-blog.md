@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Digital Strategy", "unique"]
+categories: ["Digital Strategy"]
 date:  2020-01-03T12:11:02Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/add-ads-txt-to-ghost-blog.jpg"
 slug:  "add-ads-txt-to-a-ghost-blog"
-tags:  ["Digital Strategy", "unique"]
+tags:  ["Digital Strategy"]
 title:  "How To Add Ads.txt To a Ghost Blog, Self-Hosted"
 
 ---

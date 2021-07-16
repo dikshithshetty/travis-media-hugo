@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Digital Strategy", "unique"]
+categories: ["Digital Strategy"]
 date:  2020-01-02T11:41:45Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/godaddy-nameserver-ip-address-featured.jpg"
 slug:  "how-to-find-your-godaddy-nameserver-ip-address"
-tags:  ["Digital Strategy", "unique"]
+tags:  ["Digital Strategy"]
 title:  "How to Find a GoDaddy Nameserver IP Address For Any Host"
 
 ---

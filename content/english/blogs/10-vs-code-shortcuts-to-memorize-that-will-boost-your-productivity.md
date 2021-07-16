@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date:  2019-01-07T22:35:29Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2019/12/10-vs-code-shortcuts-featured.jpg"
 slug:  "10-vs-code-shortcuts-to-memorize-that-will-boost-your-productivity"
-tags:  ["Coding Tutorials", "unique"]
+tags:  ["Coding Tutorials"]
 title:  "10 VS Code shortcuts to memorize that will boost your productivity"
 
 ---

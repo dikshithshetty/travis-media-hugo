@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Conquering Life", "unique"]
+categories: ["Conquering Life"]
 date:  2019-01-11T11:12:57Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2019/12/winning-morning-routines-featured.jpg"
 slug:  "a-winning-morning-routine-for-30-year-old-men"
-tags:  ["Conquering Life", "unique"]
+tags:  ["Conquering Life"]
 title:  "A Winning Morning Routine for 30+ Year Old Men"
 
 ---

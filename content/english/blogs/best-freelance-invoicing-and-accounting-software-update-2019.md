@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Freelancing Tips", "unique"]
+categories: ["Freelancing Tips"]
 date:  2018-12-26T12:18:23Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2019/12/freelance-invoicing-featured.jpg"
 slug:  "best-freelance-invoicing-and-accounting-software-update-2019"
-tags:  ["Freelancing Tips", "unique"]
+tags:  ["Freelancing Tips"]
 title:  "The Best Freelance Invoicing and Accounting Software Update 2019"
 
 ---

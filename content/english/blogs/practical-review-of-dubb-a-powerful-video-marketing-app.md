@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Bangin Reviews", "unique"]
+categories: ["Bangin Reviews"]
 date:  2018-11-30T12:39:21Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2019/12/review-of-dubb-featured.jpg"
 slug:  "practical-review-of-dubb-a-powerful-video-marketing-app"
-tags:  ["Bangin Reviews", "unique"]
+tags:  ["Bangin Reviews"]
 title:  "A practical review of Dubb: A powerful video marketing app"
 
 ---

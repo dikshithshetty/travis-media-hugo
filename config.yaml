@@ -1,0 +1,124 @@
+baseURL: 'https://travis-media-hugo-xms5e.ondigitalocean.app/'
+title: Travis Media
+theme: editor
+paginate: '12'
+summaryLength: '10'
+googleAnalytics: ''
+disqusShortname: travismedia
+disableLanguages:
+  - ''
+permalinks:
+  blogs: '/:title'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/slick/slick.css
+    js:
+      - link: plugins/jquery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: >-
+          https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js
+        attributes: crossorigin='anonymous' defer='defer' data-search-pseudo-elements
+      - link: plugins/slick/slick.min.js
+      - link: plugins/search/fuse.min.js
+      - link: plugins/search/mark.js
+      - link: plugins/search/search.js
+  favicon: images/logo-sm.png
+  logo_text: travis.media
+  logo_height: 26px
+  logo_rotate: true
+  description: This is meta description
+  author: Themefisher
+  address: 9567 Turner Trace Apt. BC C3G8A4
+  mobile: '+211234565523'
+  email: travis@travis.media
+  contact_form_action: '#'
+  search: true
+  mainSections:
+    - blogs
+  custom_script: ''
+  variables:
+    primary_color: '#c4732d'
+    secondary_color: '#313e50'
+    tertiary_color: '#f4f3ee'
+    white: '#ffffff'
+    black: '#000000'
+    dark: '#2B2C2E'
+    gray: '#66676d'
+    light: '#a8aab2'
+    h1: 68px
+    h1_lg: 52px
+    h1_md: 40px
+    h2: 42px
+    h2_md: 36px
+    h3: 32px
+    h3_md: 28px
+    h4: 24px
+    h5: 18px
+    h6: 16px
+    primary_font: 'Open Sans:wght@500;600'
+    secondary_font: 'Open Sans:wght@400'
+    icon_font: Font Awesome 5 Free
+  preloader:
+    enable: false
+    preloader: ''
+  subscription:
+    enable: true
+    mailchimp_form_action: >-
+      https://media.us15.list-manage.com/subscribe/post?u=f6813488291919f4ea3427452&amp;id=926c758826
+    mailchimp_form_name: b_f6813488291919f4ea3427452_926c758826
+  cookies:
+    enable: false
+    expire_days: 2
+  widgets:
+    sidebar:
+      - about-me
+      - recent-post
+      - categories
+  social:
+    - title: Facebook
+      icon: fab fa-facebook
+      link: 'https://facebook.com/travisdotmedia'
+    - title: Twitter
+      icon: fab fa-twitter
+      link: 'https://twitter.com/travisdotmedia'
+    - title: Instagram
+      icon: fab fa-instagram
+      link: 'https://instagram.com/travisdotmedia'
+    - title: Github
+      icon: fab fa-github
+      link: 'https://github.com/rodgtr1'
+Languages:
+  en:
+    languageName: En
+    languageCode: en-us
+    contentDir: content/english
+    weight: 1
+    copyright: Copyright &copy;2021
+    menu:
+      main:
+        - name: Start Here
+          url: /start-here
+          weight: 1
+        - name: Blog
+          url: ''
+          weight: 2
+        - name: Videos
+          url: /videos
+          weight: 3
+        - name: Ebooks
+          url: /ebooks
+          weight: 5
+        - name: About
+          url: /about
+          weight: 6

@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date:  2020-01-21T12:05:13Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/automate-psql-password.jpg"
 slug:  "automate-psql-password"
-tags:  ["Coding Tutorials", "unique"]
+tags:  ["Coding Tutorials"]
 title:  "How to automate the psql password"
 
 ---

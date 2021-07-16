@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Conquering Life", "unique"]
+categories: ["Conquering Life"]
 date:  2018-12-29T23:30:22Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2019/12/new-years-resolutions-coding-featured-image.jpg"
 slug:  "10-positive-new-years-resolutions-for-your-future-coding-success"
-tags:  ["Conquering Life", "unique"]
+tags:  ["Conquering Life"]
 title:  "10 Positive New Year’s Resolutions for Your Future Coding Success"
 
 ---

@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Freelancing Tips", "unique"]
+categories: ["Freelancing Tips"]
 date: 2019-01-05T00:12:47Z
 description: ""
 draft: false
 images: 
   - "/images/2019/12/become-a-freelance-web-developer-featured.jpg"
 slug: "5-steps-to-become-a-freelance-web-developer-in-2019"
-tags: ["Freelancing Tips", "unique"]
+tags: ["Freelancing Tips"]
 title: "5 Steps to Become a Freelance Web Developer in 2019"
 
 ---

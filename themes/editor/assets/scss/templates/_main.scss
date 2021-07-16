@@ -95,8 +95,11 @@
 footer .newsletter-block{
   padding: 15px;
   .input-group {
-    max-width: 350px;
+    //max-width: 350px;
     margin: auto;
+    #mce-FNAME {
+        margin-right:10px;
+    }
   }
 }
 

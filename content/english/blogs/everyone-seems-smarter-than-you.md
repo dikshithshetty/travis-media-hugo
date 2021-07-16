@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Opinion", "unique"]
+categories: ["Opinion"]
 date:  2020-01-24T12:07:58Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/smarter-than-you.jpg"
 slug:  "everyone-seems-smarter-than-you"
-tags:  ["Opinion", "unique"]
+tags:  ["Opinion"]
 title:  "When Everyone Seems Smarter Than You - Junior Developers"
 
 ---

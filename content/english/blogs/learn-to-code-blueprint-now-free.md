@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Career Advancement", "unique"]
+categories: ["Career Advancement"]
 date:  2020-01-20T13:22:38Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/learn-to-code-blueprint-free.jpg"
 slug:  "learn-to-code-blueprint-now-free"
-tags:  ["Career Advancement", "unique"]
+tags:  ["Career Advancement"]
 title:  "The Learn to Code Blueprint is Now FREE"
 
 ---

@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Career Advancement", "unique"]
+categories: ["Career Advancement"]
 date: 2020-02-05T12:27:05Z
 description: ""
 draft: false
 images:
   - "/images/2020/02/find-developer-jobs-online.jpg"
 slug: "find-developer-jobs-online"
-tags: ["Career Advancement", "unique"]
+tags: ["Career Advancement"]
 title: "Top 8 Places to Find Developer Jobs Online"
 
 ---

@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Career Advancement", "unique"]
+categories: ["Career Advancement"]
 date: 2020-01-07T11:39:12Z
 description: ""
 draft: false
 images: 
   - "/images/2020/01/junior-web-developer-growth-2020-featured.jpg"
 slug: "5-tips-junior-web-developer-growth"
-tags: ["Career Advancement", "unique"]
+tags: ["Career Advancement"]
 title: "5 Tips For Junior Web Developer Growth In 2020"
 
 ---

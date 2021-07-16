@@ -738,8 +738,9 @@ nav.sidenav-menu {
 footer .newsletter-block {
   padding: 15px; }
   footer .newsletter-block .input-group {
-    max-width: 350px;
     margin: auto; }
+    footer .newsletter-block .input-group #mce-FNAME {
+      margin-right: 10px; }
 
 .single-post-meta,
 .single-post-similer {

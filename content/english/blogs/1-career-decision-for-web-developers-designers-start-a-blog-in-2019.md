@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Blogging Success", "unique"]
+categories: ["Blogging Success"]
 date: 2018-12-27T14:51:33Z
 description: ""
 draft: false
 images: 
   - "/images/2019/12/start-a-blog-2019.jpg"
 slug: "1-career-decision-for-web-developers-designers-start-a-blog-in-2019"
-tags: ["Blogging Success", "unique"]
+tags: ["Blogging Success"]
 title: "The #1 Career Decision For Web Developers & Designers: Start a Blog in 2019!"
 
 ---

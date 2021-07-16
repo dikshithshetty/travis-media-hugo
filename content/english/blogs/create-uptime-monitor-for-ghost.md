@@ -1,13 +1,13 @@
 ---
 author: "Travis Rodgers"
-categories: ["Coding Tutorials", "unique"]
+categories: ["Coding Tutorials"]
 date:  2020-01-10T21:31:07Z
 description:  ""
 draft:  false
 images: 
   -  "/images/2020/01/uptime-monitor-for-ghost.jpg"
 slug:  "create-uptime-monitor-for-ghost"
-tags:  ["Coding Tutorials", "unique"]
+tags:  ["Coding Tutorials"]
 title:  "How to Create An Uptime Monitor  For Ghost"
 
 ---
